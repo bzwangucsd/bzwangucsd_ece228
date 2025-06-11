@@ -1,5 +1,4 @@
 models/*.pth
-sequences/*
 sav_train
 segment_anything
 
